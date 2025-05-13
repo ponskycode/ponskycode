@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello there, I'm Michael
 
-<!--
-**ponskycode/ponskycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+Some quick facts about me:
 
-Here are some ideas to get you started:
+- 🔭 Currently working on my manual & automated testing skills
+- 🌱 Learning about AI and ML as a hobby
+- ✨ Looking for some interesting colabs
+- 📬 How to reach me: [Yet to add]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Idea Boards
+- [AI and ML](https://github.com/ponskycode/ponskycode/idea_boards/AIandML.md), where my ideas go to sleep 💤
+
+## Current Projects
+- [Blank]()
+
+## Old Archived Projects
+- ⭐ [Dimensional Labyrinth](https://github.com/ponskycode/DL-gamedev-journey), an unoptimized DOOM-style game made from scratch
+- [Tic Tac Toe](https://github.com/ponskycode/tic-tac-toe), a quick and dirty web app
