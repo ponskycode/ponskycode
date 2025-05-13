@@ -9,7 +9,7 @@ Some quick facts about me:
 - 📬 How to reach me: [Yet to add]()
 
 ## Idea Boards
-- [AI and ML](https://github.com/ponskycode/ponskycode/idea_boards/AIandML.md), where my ideas go to sleep 💤
+- [AI and ML](idea_boards/AIandML.md), where my ideas go to sleep 💤
 
 ## Current Projects
 - [Blank]()
