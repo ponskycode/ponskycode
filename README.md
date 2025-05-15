@@ -1,4 +1,4 @@
-# Hello there, I'm Michael
+# Hello there, I'm Michael 🤖
 
 Welcome to my GitHub profile!
 Some quick facts about me:
