@@ -28,3 +28,7 @@ Useful libraries:
 - numpy
 - torch
 ```
+
+## Writing recognition (image)
+Could use ANNs to recognize letters on images. There are free data sets with hand-written ones.
+Maybe utilize filters to reduce complexity?
