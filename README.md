@@ -12,7 +12,7 @@ Some quick facts about me:
 - [AI and ML](idea_boards/AIandML.md), where my ideas go to sleep 💤
 
 ## Current Projects
-- [Blank]()
+- [SoliSol](https://github.com/ponskycode/SoliSol), a Spider Solitaire solver made using RL AI 🕷
 
 ## Old Archived Projects
 - ⭐ [Dimensional Labyrinth](https://github.com/ponskycode/DL-gamedev-journey), an unoptimized DOOM-style game made from scratch
